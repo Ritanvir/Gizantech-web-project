@@ -25,6 +25,7 @@ node server.js
 cd frontend
 npm install
 npm start
+Link: http://localhost:3000/
 
 # API Endpoint
 
